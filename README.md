@@ -1,6 +1,6 @@
-
+Once our paper is accepted, the model code will be made available.
 # SETUP
-How to install FastSAM.please refer to [[FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)]
+How to install FastSAM,please refer to [[FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)]
 
 # Training
 Use python train.py to run the code
