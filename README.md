@@ -1,5 +1,3 @@
-# TACC
-This is codes for TACC.
 
 # SETUP
 How to install FastSAM.please refer to [[FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)]
