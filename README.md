@@ -1,4 +1,4 @@
-Once our paper is accepted, the model code will be made available.
+The codes are coming sonn.
 # SETUP
 How to configure FastSAM,please refer to [[SAM-CD](https://github.com/DingLei14/SAM-CD)]. [[Checkpoints](https://pan.baidu.com/s/18KzBmOTENjByoWWR17zdiQ?pwd=0000)]
 
